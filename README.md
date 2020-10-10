@@ -11,4 +11,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberL1&layout=compact" alt="CyberL1" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CyberL11&show_icons=true" alt="CyberL1" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CyberL1&show_icons=true" alt="CyberL1" /></p>
