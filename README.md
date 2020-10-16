@@ -4,6 +4,7 @@
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/CyberL1nx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="CyebrL1nx" height="30" width="40" /></a>
+<a href="https://clinx.tk/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Cyebr#7159" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
