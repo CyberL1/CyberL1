@@ -6,8 +6,3 @@
 ### Discord card:
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/682572949219180547)](https://discord.com/users/682572949219180547)
-
-### Contact:  
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/CyberL1nx)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/682572949219180547)
