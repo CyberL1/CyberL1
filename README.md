@@ -6,3 +6,6 @@
 ### Discord card:
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/682572949219180547)](https://discord.com/users/682572949219180547)
+
+### Donate:
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M7MYKSR)
